@@ -17,5 +17,5 @@ Next, I only included entries that were within range and helpful to creating rel
 
 Then, I performed a train-test split where we could use some of the data to train our model to predict average ACT scores using the remaining 20% of our socioeconomic data that the model didn't see. In all, the model performed relatively well in predicting the average ACT scores with an RMSE of approximately 0.92 error.
 
-The notebook used to prepare the data is called: 
-The clean dataframe is called: 
+The notebook used to prepare the data is called: DATA_3320_Education_Inequality_Data_Preparation_Justin_Ishida.ipynb
+The clean dataframe is called: clean_education_inequality.csv
