@@ -36,4 +36,12 @@ Next, I plotted the random forrest regressor model to try predicting the average
 
 Finally, I plotted the relationship between average ACT and marriage rate, unemployment rate, and college attendance rate. I found that a higher college attendance rate, higher marriage rate, and lower unemployment rate correlate to a higher average ACT score. 
 
+# Requirements
+Used Google Collabratory (jupyter notebooks) to import, clean, and analyze the information for this project.
+
+# Author
+Justin Ishida
+
+# License
+Any one can use the notebooks, datasets, and conclusions of this repository for educational, personal, or professional use. 
 The file that performed the analysis is called: 'DATA_3320_Education_Analysis_Justin_Ishida.ipynb'
