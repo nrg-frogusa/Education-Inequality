@@ -22,3 +22,18 @@ The notebook used to prepare the data is called: DATA_3320_01_Data_Preparation_J
 The training dataset is called: training_set_education.csv
 
 And the testing dataset is called: testing_set_education.csv
+
+# Data Analysis
+The questions I wanted to answer to better understand the relationship between socioeconomic variables and average ACT scores were as follows: How does the variation in median household income within the same state affect the average ACT scores?
+
+What is the relationship between each socioeconomic factor (unemployment rate, marriage rate, college attendance rate, etc.) and average ACT scores?
+
+Is a regression that takes the above socioeconomic factors into account able accurately predict average ACT scores? If not, how could it be improved?
+
+We plotted the median income by state and average ACT score. I found that as households earn more; the better they score on the ACT on average across all states.
+
+Next, I plotted the random forrest regressor model to try predicting the average ACT. I found that the model was not very accurate in predicting the average ACT based on the socioeconomic variables. 
+
+Finally, I plotted the relationship between average ACT and marriage rate, unemployment rate, and college attendance rate. I found that a higher college attendance rate, higher marriage rate, and lower unemployment rate correlate to a higher average ACT score. 
+
+The file that performed the analysis is called: 'DATA_3320_Education_Analysis_Justin_Ishida.ipynb'
